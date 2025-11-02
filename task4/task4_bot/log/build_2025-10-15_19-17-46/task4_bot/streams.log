@@ -1,0 +1,24 @@
+[2.057s] Invoking command in '/home/pranabpandey31/rostasks/task4/task4_bot/src': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data
+[2.583s] running egg_info
+[2.585s] writing ../build/task4_bot/task4_bot.egg-info/PKG-INFO
+[2.595s] writing dependency_links to ../build/task4_bot/task4_bot.egg-info/dependency_links.txt
+[2.595s] writing entry points to ../build/task4_bot/task4_bot.egg-info/entry_points.txt
+[2.596s] writing requirements to ../build/task4_bot/task4_bot.egg-info/requires.txt
+[2.597s] writing top-level names to ../build/task4_bot/task4_bot.egg-info/top_level.txt
+[2.601s] reading manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[2.604s] writing manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[2.604s] running build
+[2.604s] running build_py
+[2.608s] running install
+[2.609s] running install_lib
+[2.617s] running install_data
+[2.617s] copying launch/gazebolaunch.py -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/launch
+[2.621s] creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/Custom_world
+[2.624s] copying Custom_world/model.world -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/Custom_world
+[2.624s] copying Custom_world/model.config -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/Custom_world
+[2.625s] running install_egg_info
+[2.628s] removing '/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.629s] Copying ../build/task4_bot/task4_bot.egg-info to /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot-0.0.0-py3.10.egg-info
+[2.634s] running install_scripts
+[2.674s] writing list of installed files to '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log'
+[2.729s] Invoked command in '/home/pranabpandey31/rostasks/task4/task4_bot/src' returned '0': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data

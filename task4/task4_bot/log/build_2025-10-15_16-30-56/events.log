@@ -1,0 +1,99 @@
+[0.000000] (-) TimerEvent: {}
+[0.004833] (task4_bot) JobQueued: {'identifier': 'task4_bot', 'dependencies': OrderedDict()}
+[0.005250] (task4_bot) JobStarted: {'identifier': 'task4_bot'}
+[0.096159] (-) TimerEvent: {}
+[0.197305] (-) TimerEvent: {}
+[0.298346] (-) TimerEvent: {}
+[0.399425] (-) TimerEvent: {}
+[0.500539] (-) TimerEvent: {}
+[0.601986] (-) TimerEvent: {}
+[0.703698] (-) TimerEvent: {}
+[0.805745] (-) TimerEvent: {}
+[0.907603] (-) TimerEvent: {}
+[1.009135] (-) TimerEvent: {}
+[1.110323] (-) TimerEvent: {}
+[1.211441] (-) TimerEvent: {}
+[1.312816] (-) TimerEvent: {}
+[1.413954] (-) TimerEvent: {}
+[1.515343] (-) TimerEvent: {}
+[1.617027] (-) TimerEvent: {}
+[1.718330] (-) TimerEvent: {}
+[1.819781] (-) TimerEvent: {}
+[1.921343] (-) TimerEvent: {}
+[2.022739] (-) TimerEvent: {}
+[2.124038] (-) TimerEvent: {}
+[2.225209] (-) TimerEvent: {}
+[2.326384] (-) TimerEvent: {}
+[2.427582] (-) TimerEvent: {}
+[2.528827] (-) TimerEvent: {}
+[2.630117] (-) TimerEvent: {}
+[2.731146] (-) TimerEvent: {}
+[2.832438] (-) TimerEvent: {}
+[2.933708] (-) TimerEvent: {}
+[3.035130] (-) TimerEvent: {}
+[3.136634] (-) TimerEvent: {}
+[3.238224] (-) TimerEvent: {}
+[3.339832] (-) TimerEvent: {}
+[3.441676] (-) TimerEvent: {}
+[3.543241] (-) TimerEvent: {}
+[3.645284] (-) TimerEvent: {}
+[3.746680] (-) TimerEvent: {}
+[3.847811] (-) TimerEvent: {}
+[3.949605] (-) TimerEvent: {}
+[4.050774] (-) TimerEvent: {}
+[4.152460] (-) TimerEvent: {}
+[4.253849] (-) TimerEvent: {}
+[4.355153] (-) TimerEvent: {}
+[4.456633] (-) TimerEvent: {}
+[4.558195] (-) TimerEvent: {}
+[4.659503] (-) TimerEvent: {}
+[4.760989] (-) TimerEvent: {}
+[4.862372] (-) TimerEvent: {}
+[4.963792] (-) TimerEvent: {}
+[5.065656] (-) TimerEvent: {}
+[5.167368] (-) TimerEvent: {}
+[5.196760] (task4_bot) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/task4_bot', 'build', '--build-base', '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build', 'install', '--record', '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/pranabpandey31/rostasks/task4/task4_bot/src', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'pranabpandey31', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'WT_PROFILE_ID': '{51855cb2-8cce-5362-8f54-464b92b32386}', 'HOME': '/home/pranabpandey31', 'OLDPWD': '/home/pranabpandey31', 'GAZEBO_MASTER_URI': 'http://localhost:11345', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/pranabpandey31/rostasks/task4/task4_bot/install:/home/pranabpandey31/turtlebot3_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'pranabpandey31', 'ONSHAPE_SECRET_KEY': 'T24wxeJpJ500Lt2MjpEjs8RcEvH7HSaFNc8yJ2Pod1olelWS', 'NAME': 'LAPTOP-IUCJQET6', 'WSL_INTEROP': '/run/WSL/6791_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:', 'ROS_LOCALHOST_ONLY': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'PATH': '/home/pranabpandey31/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/110/Tools/Binn/:/mnt/c/Program Files (x86)/Microsoft SQL Server/120/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/120/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/120/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/MongoDB/Server/8.0/bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/04-06-24/AppData/Local/Programs/Python/Python312/:/mnt/c/Users/04-06-24/AppData/Local/Programs/Python/Python313/Scripts/:/mnt/c/Users/04-06-24/AppData/Local/Programs/Python/Python313/:/mnt/c/Users/04-06-24/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/04-06-24/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/04-06-24/AppData/Roaming/npm:/mnt/c/msys64/ucrt64/bin:/mnt/c/Program Files/mongosh/:/mnt/c/Qt/Qt5.13.2/5.13.2/msvc2017/bin:/mnt/c/Users/04-06-24/AppData/Local/JetBrains/Toolbox/scripts:/mnt/c/Users/04-06-24/AppData/Local/Microsoft/WindowsApps:/snap/bin', 'WT_SESSION': '1c312a7e-0551-4bbe-9b3b-496c879dcd9c', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_cyclonedds_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '30', 'AMENT_PREFIX_PATH': '/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_teleop:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_bringup:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_node:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_navigation2:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_fake_node:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_example:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_msgs:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_description:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_cartographer:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_examples:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'PWD': '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot', 'TURTLEBOT3_MODEL': 'waffle', 'ONSHAPE_ACCESS_KEY': 'RX4dPWHMpZa18TeOPSaTaXGd', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:/home/pranabpandey31/turtlebot3_ws/build/turtlebot3_teleop:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:/home/pranabpandey31/turtlebot3_ws/build/turtlebot3_example:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'ONSHAPE_API': 'https://cad.onshape.com', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/home/pranabpandey31/turtlebot3_ws/install/turtlebot3:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_bringup:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_node:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_navigation2:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_fake_node:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_msgs:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_description:/home/pranabpandey31/turtlebot3_ws/install/turtlebot3_cartographer:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_examples:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/pranabpandey31/turtlebot3_ws/install/dynamixel_sdk', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[5.267751] (-) TimerEvent: {}
+[5.369119] (-) TimerEvent: {}
+[5.470474] (-) TimerEvent: {}
+[5.571876] (-) TimerEvent: {}
+[5.673672] (-) TimerEvent: {}
+[5.775352] (-) TimerEvent: {}
+[5.877322] (-) TimerEvent: {}
+[5.978942] (-) TimerEvent: {}
+[6.080578] (-) TimerEvent: {}
+[6.182245] (-) TimerEvent: {}
+[6.283937] (-) TimerEvent: {}
+[6.385747] (-) TimerEvent: {}
+[6.486946] (-) TimerEvent: {}
+[6.588135] (-) TimerEvent: {}
+[6.689824] (-) TimerEvent: {}
+[6.791112] (-) TimerEvent: {}
+[6.892383] (-) TimerEvent: {}
+[6.993835] (-) TimerEvent: {}
+[7.095098] (-) TimerEvent: {}
+[7.197351] (-) TimerEvent: {}
+[7.298790] (-) TimerEvent: {}
+[7.399782] (-) TimerEvent: {}
+[7.501298] (-) TimerEvent: {}
+[7.570608] (task4_bot) StdoutLine: {'line': b'running egg_info\n'}
+[7.576584] (task4_bot) StdoutLine: {'line': b'writing ../build/task4_bot/task4_bot.egg-info/PKG-INFO\n'}
+[7.578627] (task4_bot) StdoutLine: {'line': b'writing dependency_links to ../build/task4_bot/task4_bot.egg-info/dependency_links.txt\n'}
+[7.580897] (task4_bot) StdoutLine: {'line': b'writing entry points to ../build/task4_bot/task4_bot.egg-info/entry_points.txt\n'}
+[7.582401] (task4_bot) StdoutLine: {'line': b'writing requirements to ../build/task4_bot/task4_bot.egg-info/requires.txt\n'}
+[7.583033] (task4_bot) StdoutLine: {'line': b'writing top-level names to ../build/task4_bot/task4_bot.egg-info/top_level.txt\n'}
+[7.594813] (task4_bot) StdoutLine: {'line': b"reading manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'\n"}
+[7.600707] (task4_bot) StdoutLine: {'line': b"writing manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'\n"}
+[7.601528] (-) TimerEvent: {}
+[7.603229] (task4_bot) StdoutLine: {'line': b'running build\n'}
+[7.604768] (task4_bot) StdoutLine: {'line': b'running build_py\n'}
+[7.605421] (task4_bot) StdoutLine: {'line': b'running install\n'}
+[7.606997] (task4_bot) StdoutLine: {'line': b'running install_lib\n'}
+[7.623704] (task4_bot) StdoutLine: {'line': b'running install_data\n'}
+[7.626004] (task4_bot) StdoutLine: {'line': b'copying launch/state_publisher.py -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/launch\n'}
+[7.628082] (task4_bot) StderrLine: {'line': b"error: can't copy 'urdf/tb3.urdf': doesn't exist or not a regular file\n"}
+[7.701902] (-) TimerEvent: {}
+[7.796109] (task4_bot) CommandEnded: {'returncode': 1}
+[7.798628] (task4_bot) JobEnded: {'identifier': 'task4_bot', 'rc': 1}
+[7.802272] (-) TimerEvent: {}
+[7.811716] (-) EventReactorShutdown: {}

@@ -1,0 +1,5 @@
+[0.000000] (-) TimerEvent: {}
+[0.000328] (task4_bot) JobQueued: {'identifier': 'task4_bot', 'dependencies': OrderedDict()}
+[0.000403] (task4_bot) JobStarted: {'identifier': 'task4_bot'}
+[0.010447] (task4_bot) JobEnded: {'identifier': 'task4_bot', 'rc': 0}
+[0.012654] (-) EventReactorShutdown: {}

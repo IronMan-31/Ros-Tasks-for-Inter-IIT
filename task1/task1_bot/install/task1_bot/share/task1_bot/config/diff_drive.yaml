@@ -1,0 +1,42 @@
+# diff_drive_controller.yaml
+controller_manager:
+  ros__parameters:
+    update_rate: 30 # Control loop frequency in Hz
+
+diff_drive_controller:
+  ros__parameters:
+    # 1. Map all four joints to the left/right commands
+    left_wheel_names: ['wheel_1', 'wheel_4']
+    right_wheel_names: ['wheel_2', 'wheel_3']
+
+    # 2. General kinematics and controller settings
+    wheel_separation: 0.5   # Distance between the left and right wheel lines (meters)
+    wheel_radius: 0.1       # Radius of the wheels (meters)
+    
+    # Gear ratio (if any, typically 1.0)
+    wheel_separation_multiplier: 1.0
+    wheel_radius_multiplier: 1.0
+
+    # 3. Velocity commands (optional, adjust based on your needs)
+    publish_rate: 50.0
+    cmd_vel_timeout: 0.5
+    
+    # 4. Controller topic (Receives 'geometry_msgs/msg/Twist')
+    # The topic where you send velocity commands
+    base_frame_id: base_link
+    odom_frame_id: odom
+    
+    # 5. Controller PID gains (if using Effort/Position interfaces, ignored for Velocity)
+    # The Gazebo plugin handles the physics, but these are defined for ros2_control
+    linear:
+      x:
+        has_velocity_limits    : true
+        max_velocity         : 1.0   # Max linear speed (m/s)
+        has_acceleration_limits: true
+        max_acceleration     : 2.0   # Max linear acceleration (m/s^2)
+    angular:
+      z:
+        has_velocity_limits    : true
+        max_velocity         : 1.57 # Max angular speed (rad/s)
+        has_acceleration_limits: true
+        max_acceleration     : 3.14 # Max angular acceleration (rad/s^2)

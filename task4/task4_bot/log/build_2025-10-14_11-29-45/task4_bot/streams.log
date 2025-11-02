@@ -1,0 +1,33 @@
+[2.136s] Invoking command in '/home/pranabpandey31/rostasks/task4/task4_bot': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data
+[2.755s] running egg_info
+[2.759s] creating build/task4_bot/task4_bot.egg-info
+[2.761s] writing build/task4_bot/task4_bot.egg-info/PKG-INFO
+[2.762s] writing dependency_links to build/task4_bot/task4_bot.egg-info/dependency_links.txt
+[2.762s] writing entry points to build/task4_bot/task4_bot.egg-info/entry_points.txt
+[2.763s] writing requirements to build/task4_bot/task4_bot.egg-info/requires.txt
+[2.764s] writing top-level names to build/task4_bot/task4_bot.egg-info/top_level.txt
+[2.764s] writing manifest file 'build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[2.769s] reading manifest file 'build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[2.771s] writing manifest file 'build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[2.772s] running build
+[2.772s] running build_py
+[2.773s] creating /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build
+[2.775s] creating /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build/lib
+[2.777s] creating /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build/lib/task4_bot
+[2.779s] copying task4_bot/__init__.py -> /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build/lib/task4_bot
+[2.779s] running install
+[2.780s] running install_lib
+[2.783s] creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot
+[2.785s] copying /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build/lib/task4_bot/__init__.py -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot
+[2.787s] byte-compiling /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot/__init__.py to __init__.cpython-310.pyc
+[2.789s] running install_data
+[2.789s] creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/ament_index
+[2.790s] creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/ament_index/resource_index
+[2.792s] creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/ament_index/resource_index/packages
+[2.793s] copying resource/task4_bot -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/ament_index/resource_index/packages
+[2.794s] copying package.xml -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot
+[2.794s] running install_egg_info
+[2.798s] Copying build/task4_bot/task4_bot.egg-info to /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages/task4_bot-0.0.0-py3.10.egg-info
+[2.803s] running install_scripts
+[2.847s] writing list of installed files to '/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log'
+[2.906s] Invoked command in '/home/pranabpandey31/rostasks/task4/task4_bot' returned '0': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,23 @@
+running egg_info
+writing ../build/task1_bot/task1_bot.egg-info/PKG-INFO
+writing dependency_links to ../build/task1_bot/task1_bot.egg-info/dependency_links.txt
+writing entry points to ../build/task1_bot/task1_bot.egg-info/entry_points.txt
+writing requirements to ../build/task1_bot/task1_bot.egg-info/requires.txt
+writing top-level names to ../build/task1_bot/task1_bot.egg-info/top_level.txt
+reading manifest file '../build/task1_bot/task1_bot.egg-info/SOURCES.txt'
+writing manifest file '../build/task1_bot/task1_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying task1_bot/forward_kinematics.py -> /home/pranabpandey31/rostasks/task1/task1_bot/build/task1_bot/build/lib/task1_bot
+running install
+running install_lib
+copying /home/pranabpandey31/rostasks/task1/task1_bot/build/task1_bot/build/lib/task1_bot/forward_kinematics.py -> /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/lib/python3.10/site-packages/task1_bot
+byte-compiling /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/lib/python3.10/site-packages/task1_bot/forward_kinematics.py to forward_kinematics.cpython-310.pyc
+running install_data
+copying launch/gazebolaunch.py -> /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/share/task1_bot/launch
+running install_egg_info
+removing '/home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/lib/python3.10/site-packages/task1_bot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/task1_bot/task1_bot.egg-info to /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/lib/python3.10/site-packages/task1_bot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing cmd_velNode script to /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/lib/task1_bot
+writing list of installed files to '/home/pranabpandey31/rostasks/task1/task1_bot/build/task1_bot/install.log'

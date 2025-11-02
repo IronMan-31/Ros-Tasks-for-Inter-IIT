@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/task3_part1_bot/task3_part1_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/task3_part1_bot/task3_part1_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/task3_part1_bot/task3_part1_bot.egg-info/entry_points.txt
+writing requirements to ../../build/task3_part1_bot/task3_part1_bot.egg-info/requires.txt
+writing top-level names to ../../build/task3_part1_bot/task3_part1_bot.egg-info/top_level.txt
+reading manifest file '../../build/task3_part1_bot/task3_part1_bot.egg-info/SOURCES.txt'
+writing manifest file '../../build/task3_part1_bot/task3_part1_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages/task3_part1_bot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/task3_part1_bot/task3_part1_bot.egg-info to /home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages/task3_part1_bot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing aruco_detector script to /home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/task3_part1_bot
+writing list of installed files to '/home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/install.log'

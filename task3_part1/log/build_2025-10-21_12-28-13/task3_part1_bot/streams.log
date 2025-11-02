@@ -1,0 +1,21 @@
+[2.435s] Invoking command in '/home/pranabpandey31/rostasks/task3_part1/src/task3_part1_bot': PYTHONPATH=/home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task3_part1_bot build --build-base /home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/build install --record /home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/install.log --single-version-externally-managed install_data
+[3.340s] running egg_info
+[3.342s] writing ../../build/task3_part1_bot/task3_part1_bot.egg-info/PKG-INFO
+[3.343s] writing dependency_links to ../../build/task3_part1_bot/task3_part1_bot.egg-info/dependency_links.txt
+[3.344s] writing entry points to ../../build/task3_part1_bot/task3_part1_bot.egg-info/entry_points.txt
+[3.344s] writing requirements to ../../build/task3_part1_bot/task3_part1_bot.egg-info/requires.txt
+[3.345s] writing top-level names to ../../build/task3_part1_bot/task3_part1_bot.egg-info/top_level.txt
+[3.350s] reading manifest file '../../build/task3_part1_bot/task3_part1_bot.egg-info/SOURCES.txt'
+[3.352s] writing manifest file '../../build/task3_part1_bot/task3_part1_bot.egg-info/SOURCES.txt'
+[3.354s] running build
+[3.355s] running build_py
+[3.355s] running install
+[3.357s] running install_lib
+[3.364s] running install_data
+[3.364s] copying world/world.sdf -> /home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/share/task3_part1_bot/world
+[3.366s] running install_egg_info
+[3.373s] removing '/home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages/task3_part1_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[3.377s] Copying ../../build/task3_part1_bot/task3_part1_bot.egg-info to /home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages/task3_part1_bot-0.0.0-py3.10.egg-info
+[3.380s] running install_scripts
+[3.445s] writing list of installed files to '/home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/install.log'
+[3.564s] Invoked command in '/home/pranabpandey31/rostasks/task3_part1/src/task3_part1_bot' returned '0': PYTHONPATH=/home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task3_part1/install/task3_part1_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task3_part1_bot build --build-base /home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/build install --record /home/pranabpandey31/rostasks/task3_part1/build/task3_part1_bot/install.log --single-version-externally-managed install_data

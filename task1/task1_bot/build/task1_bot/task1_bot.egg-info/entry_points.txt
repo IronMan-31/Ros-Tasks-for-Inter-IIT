@@ -1,0 +1,3 @@
+[console_scripts]
+cmd_velNode = task1_bot.forward_kinematics:main
+

@@ -1,0 +1,17 @@
+running egg_info
+writing ../build/task1_bot/task1_bot.egg-info/PKG-INFO
+writing dependency_links to ../build/task1_bot/task1_bot.egg-info/dependency_links.txt
+writing entry points to ../build/task1_bot/task1_bot.egg-info/entry_points.txt
+writing requirements to ../build/task1_bot/task1_bot.egg-info/requires.txt
+writing top-level names to ../build/task1_bot/task1_bot.egg-info/top_level.txt
+reading manifest file '../build/task1_bot/task1_bot.egg-info/SOURCES.txt'
+writing manifest file '../build/task1_bot/task1_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/share/task1_bot/launch
+copying launch/statepublisher.py -> /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/share/task1_bot/launch
+creating /home/pranabpandey31/rostasks/task1/task1_bot/install/task1_bot/share/task1_boturdf
+error: can't copy 'urdf/robot_description.urdf': doesn't exist or not a regular file

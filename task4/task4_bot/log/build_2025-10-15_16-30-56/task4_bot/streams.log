@@ -1,0 +1,17 @@
+[5.220s] Invoking command in '/home/pranabpandey31/rostasks/task4/task4_bot/src': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data
+[7.566s] running egg_info
+[7.572s] writing ../build/task4_bot/task4_bot.egg-info/PKG-INFO
+[7.574s] writing dependency_links to ../build/task4_bot/task4_bot.egg-info/dependency_links.txt
+[7.577s] writing entry points to ../build/task4_bot/task4_bot.egg-info/entry_points.txt
+[7.577s] writing requirements to ../build/task4_bot/task4_bot.egg-info/requires.txt
+[7.578s] writing top-level names to ../build/task4_bot/task4_bot.egg-info/top_level.txt
+[7.590s] reading manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[7.596s] writing manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+[7.599s] running build
+[7.600s] running build_py
+[7.600s] running install
+[7.602s] running install_lib
+[7.619s] running install_data
+[7.621s] copying launch/state_publisher.py -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/launch
+[7.623s] error: can't copy 'urdf/tb3.urdf': doesn't exist or not a regular file
+[7.792s] Invoked command in '/home/pranabpandey31/rostasks/task4/task4_bot/src' returned '1': PYTHONPATH=/home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/task4_bot build --build-base /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/build install --record /home/pranabpandey31/rostasks/task4/task4_bot/build/task4_bot/install.log --single-version-externally-managed install_data

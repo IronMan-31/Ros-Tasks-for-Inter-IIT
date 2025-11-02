@@ -1,0 +1,21 @@
+running egg_info
+writing ../build/task4_bot/task4_bot.egg-info/PKG-INFO
+writing dependency_links to ../build/task4_bot/task4_bot.egg-info/dependency_links.txt
+writing entry points to ../build/task4_bot/task4_bot.egg-info/entry_points.txt
+writing requirements to ../build/task4_bot/task4_bot.egg-info/requires.txt
+writing top-level names to ../build/task4_bot/task4_bot.egg-info/top_level.txt
+reading manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+writing manifest file '../build/task4_bot/task4_bot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying urdf/tb3.urdf -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/urdf
+copying urdf/my_bot.urdf -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/urdf
+creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/meshes
+creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/meshes/bases
+copying meshes/bases/waffle_base.stl -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/meshes/bases
+creating /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/meshes/sensors
+copying meshes/sensors/lds.stl -> /home/pranabpandey31/rostasks/task4/task4_bot/install/task4_bot/share/task4_bot/meshes/sensors
+error: can't copy 'meshes/sensors/r_200.dae': doesn't exist or not a regular file

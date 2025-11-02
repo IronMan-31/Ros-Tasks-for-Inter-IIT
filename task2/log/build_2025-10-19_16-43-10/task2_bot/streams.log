@@ -1,0 +1,22 @@
+[0.944s] Invoking command in '/home/pranabpandey31/rostasks/task2/src/task2_bot': PYTHONPATH=/home/pranabpandey31/rostasks/task2/build/task2_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task2/install/task2_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task2_bot build --build-base /home/pranabpandey31/rostasks/task2/build/task2_bot/build install --record /home/pranabpandey31/rostasks/task2/build/task2_bot/install.log --single-version-externally-managed install_data
+[1.246s] running egg_info
+[1.246s] writing ../../build/task2_bot/task2_bot.egg-info/PKG-INFO
+[1.247s] writing dependency_links to ../../build/task2_bot/task2_bot.egg-info/dependency_links.txt
+[1.247s] writing entry points to ../../build/task2_bot/task2_bot.egg-info/entry_points.txt
+[1.247s] writing requirements to ../../build/task2_bot/task2_bot.egg-info/requires.txt
+[1.247s] writing top-level names to ../../build/task2_bot/task2_bot.egg-info/top_level.txt
+[1.250s] reading manifest file '../../build/task2_bot/task2_bot.egg-info/SOURCES.txt'
+[1.251s] writing manifest file '../../build/task2_bot/task2_bot.egg-info/SOURCES.txt'
+[1.252s] running build
+[1.252s] running build_py
+[1.253s] running install
+[1.253s] running install_lib
+[1.254s] running install_data
+[1.254s] copying urdf/Arm_Urdf.urdf -> /home/pranabpandey31/rostasks/task2/install/task2_bot/share/task2_bot/urdf
+[1.255s] running install_egg_info
+[1.258s] removing '/home/pranabpandey31/rostasks/task2/install/task2_bot/lib/python3.10/site-packages/task2_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.259s] Copying ../../build/task2_bot/task2_bot.egg-info to /home/pranabpandey31/rostasks/task2/install/task2_bot/lib/python3.10/site-packages/task2_bot-0.0.0-py3.10.egg-info
+[1.261s] running install_scripts
+[1.290s] Installing joint_teleop_node script to /home/pranabpandey31/rostasks/task2/install/task2_bot/lib/task2_bot
+[1.290s] writing list of installed files to '/home/pranabpandey31/rostasks/task2/build/task2_bot/install.log'
+[1.339s] Invoked command in '/home/pranabpandey31/rostasks/task2/src/task2_bot' returned '0': PYTHONPATH=/home/pranabpandey31/rostasks/task2/build/task2_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranabpandey31/rostasks/task2/install/task2_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task2_bot build --build-base /home/pranabpandey31/rostasks/task2/build/task2_bot/build install --record /home/pranabpandey31/rostasks/task2/build/task2_bot/install.log --single-version-externally-managed install_data

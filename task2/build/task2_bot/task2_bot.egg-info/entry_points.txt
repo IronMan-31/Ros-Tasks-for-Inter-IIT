@@ -1,0 +1,3 @@
+[console_scripts]
+joint_teleop_node = task2_bot.joint_teleop:main
+

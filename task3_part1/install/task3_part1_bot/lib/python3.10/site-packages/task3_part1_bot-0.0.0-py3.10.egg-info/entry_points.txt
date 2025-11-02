@@ -1,0 +1,4 @@
+[console_scripts]
+aruco_detector = task3_part1_bot.aruco_detector:main
+follow = task3_part1_bot.follow:main
+
